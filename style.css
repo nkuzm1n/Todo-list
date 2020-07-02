@@ -98,6 +98,7 @@ form button:hover {
 .todo-item {
     flex: 1;
     padding: 0 8px;
+    color: #444;
 }
 
 @media (max-width: 476px) {
